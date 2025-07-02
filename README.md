@@ -1,30 +1,9 @@
-# Spellbound Sprint
+# p5.js
 
-A 2D platformer game inspired by the Chrome Dino game, built using p5.js.  
-Created as part of the Girls Who Code SIP 2023.
+This is the Template Repl for p5.js.
 
-## Features
+p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.
 
-- Magic and adventure theme
-- Player movement, jumping, and level progression
-- Custom UI elements and original game logic
+[Check out the official docs here](https://p5js.org/reference/).
 
-## How to Play
 
-1. Clone the repository or download the ZIP.
-2. Open `index.html` in your browser.
-3. Use arrow keys to move and jump.
-
-## Inspiration
-
-This game is inspired by the classic Chrome Dino game, reimagined with a magical twist.
-
-## Technologies Used
-
-- p5.js
-- JavaScript
-- HTML/CSS
-
-## Credits
-
-Developed by Mehrish Khan for Girls Who Code SIP 2023.
