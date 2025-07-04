@@ -31,3 +31,9 @@ Spellbound Sprint is a fast-paced endless runner where you play as a wizard spri
 - Use **arrow keys** to jump and dodge obstacles.
 - Survive as long as possible while the cold world slowly comes back to life.
 
+## 📦 How to Run Locally
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/spellbound-sprint.git
+   cd spellbound-sprint
