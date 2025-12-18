@@ -1,6 +1,7 @@
 # ❄️ Spellbound Sprint
 
 **A magical 2D platformer built with p5.js, inspired by the Chrome Dino game — but better looking and way cooler (literally).**
+![Gameplay GIF](assets/gif.gif)
 
 ## 🧙‍♂️ About the Game
 
