@@ -18,10 +18,6 @@ Spellbound Sprint is a fast-paced endless runner where you play as a wizard spri
 - 🎮 **Simple & Addictive Gameplay** — Inspired by the Chrome Dino game, but visually enhanced.
 - 🔥 **Hope Mechanic** — Restore life as you sprint, symbolized by subtle environmental effects.
 
-## 📸 Screenshot
-
-![Spellbound Sprint Screenshot](./assets/screenshot.png) <!-- Replace with actual path if hosted -->
-
 ## 🛠️ Built With
 
 - [p5.js](https://p5js.org/) — JavaScript library for creative coding.
